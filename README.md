@@ -10,10 +10,13 @@
 ### Nasıl Kullanılır? - How To Use?
 >python3 UNSTABLE.py
 
-Video: https://www.youtube.com/watch?v=2hib9WjpJo8
+$ pip install -r requirement.txt
 
+after done requirements, do everything by giving instructions while executing scrip
 
-Bu araç sadece eğitim amaçlı kodlanmış olup, doğabilecek zararlardan tamamen kullanıcı sorumludur.
+This tool was coded for educational purposes only and tiny modified by A1python
+
+/Bu araç sadece eğitim amaçlı kodlanmış olup, doğabilecek zararlardan tamamen kullanıcı sorumludur.
 
 
 Contact: iletisim@UN5T48L3.com
