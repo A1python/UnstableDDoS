@@ -16,7 +16,7 @@ $ python3 UNSTABLE.py
 
 after done requirements, do everything by giving instructions while executing scrip
 
-This tool was coded for educational purposes only and tiny modified by A1python
+This tool was coded for educational purposes only and tiny modification by A1python
 
 /Bu araç sadece eğitim amaçlı kodlanmış olup, doğabilecek zararlardan tamamen kullanıcı sorumludur.
 
