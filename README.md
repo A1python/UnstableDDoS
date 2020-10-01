@@ -12,6 +12,8 @@
 
 $ pip install -r requirement.txt
 
+$ python3 UNSTABLE.py
+
 after done requirements, do everything by giving instructions while executing scrip
 
 This tool was coded for educational purposes only and tiny modified by A1python
